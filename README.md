@@ -4,27 +4,27 @@
 
 Bienvenidos al repositorio de cursos de [@CSPUC](https://github.com/cspuc). El objetivo de este repositorio es centralizar la información y agilizar el proceso de busqueda de cursos, sus respectivos proyectos y material. Sean libres de hacer uso del README.md principal para compartir y mantener registro de los repositorios de cada curso! 
 
-[404](/#) • [Contribuir](/#)
+[404](https://github.com/cspuc/courses#-404) • [Contribuir](https://github.com/cspuc/courses#%EF%B8%8F-contribuciones)
 
 ### Indice
 
-- [IIC1005 Computación: Ciencia y Tecnología del Mundo Digital](link)
-- [IIC2026 Visualización de Información](link)
-- [IIC2113 Diseño Detallado de Software](link)
-- [IIC2115 Programación Como Herramienta para la Ingeniería](link)
-- [IIC2133 Estructuras de Datos y Algoritmos](link)
-- [IIC2143 Ingeniería de Software](link)
-- [IIC2173 Arquitectura de Sistemas de Software](link)
-- [IIC2223 Teoría de Autómatas y Lenguajes Formales](link)
-- [IIC2233 Programación Avanzada](link)
-- [IIC2283 Diseño y Análisis de Algoritmos](link)
-- [IIC2333 Sistemas Operativos y Redes](link)
-- [IIC2343 Arquitectura de Computadores](link)
-- [IIC2413 Bases de Datos](link)
-- [IIC2513 Tecnologías y Aplicaciones Web](link)
-- [IIC2553 Taller de Programación Competitiva II](link)
-- [IIC2613 Inteligencia Artificial](link)
-- [IIC3633 Sistemas Recomendadores](link)
+- [IIC1005 Computación: Ciencia y Tecnología del Mundo Digital](https://github.com/cspuc/courses#iic1005-computaci%C3%B3n-ciencia-y-tecnolog%C3%ADa-del-mundo-digital)
+- [IIC2026 Visualización de Información](https://github.com/cspuc/courses#iic2026-visualizaci%C3%B3n-de-informaci%C3%B3n)
+- [IIC2113 Diseño Detallado de Software](https://github.com/cspuc/courses#iic2113-dise%C3%B1o-detallado-de-software)
+- [IIC2115 Programación Como Herramienta para la Ingeniería](https://github.com/cspuc/courses#iic2115-programaci%C3%B3n-como-herramienta-para-la-ingenier%C3%ADa)
+- [IIC2133 Estructuras de Datos y Algoritmos](https://github.com/cspuc/courses#iic2133-estructuras-de-datos-y-algoritmos)
+- [IIC2143 Ingeniería de Software](https://github.com/cspuc/courses#iic2143-ingenier%C3%ADa-de-software)
+- [IIC2173 Arquitectura de Sistemas de Software](https://github.com/cspuc/courses#iic2173-arquitectura-de-sistemas-de-software)
+- [IIC2223 Teoría de Autómatas y Lenguajes Formales](https://github.com/cspuc/courses#iic2223-teor%C3%ADa-de-aut%C3%B3matas-y-lenguajes-formales)
+- [IIC2233 Programación Avanzada](https://github.com/cspuc/courses#iic2233-programaci%C3%B3n-avanzada)
+- [IIC2283 Diseño y Análisis de Algoritmos](https://github.com/cspuc/courses#iic2283-dise%C3%B1o-y-an%C3%A1lisis-de-algoritmos)
+- [IIC2333 Sistemas Operativos y Redes](https://github.com/cspuc/courses#iic2333-sistemas-operativos-y-redes)
+- [IIC2343 Arquitectura de Computadores](https://github.com/cspuc/courses#iic2343-arquitectura-de-computadores)
+- [IIC2413 Bases de Datos](https://github.com/cspuc/courses#iic2413-bases-de-datos)
+- [IIC2513 Tecnologías y Aplicaciones Web](https://github.com/cspuc/courses#iic2513-tecnolog%C3%ADas-y-aplicaciones-web)
+- [IIC2553 Taller de Programación Competitiva II](https://github.com/cspuc/courses#iic2553-taller-de-programaci%C3%B3n-competitiva-ii)
+- [IIC2613 Inteligencia Artificial](https://github.com/cspuc/courses#iic2613-inteligencia-artificial)
+- [IIC3633 Sistemas Recomendadores](https://github.com/cspuc/courses#iic3633-sistemas-recomendadores)
 
 # 👨‍🎓️ Cursos
 
@@ -193,7 +193,7 @@ La siguiente lista contiene todos los cursos en los cuales no pudimos encontrar 
 
 # 👨‍🔧️ Contribuciones
 
-Sientete libre de contribuir abriendo un [pull request](pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de de cursos abrir una [issue.](issues)
+Sientete libre de contribuir abriendo un [pull request](https://github.com/cspuc/courses/pulls) que incluya la publicacion en el [README.md](README.md) siguiendo la norma de estilo que se encuentra comentada justo debajo de este parrafo. Para presentar cambios de importantes o pull requests de de cursos abrir una [issue.](https://github.com/cspuc/courses/issues)
 
 
 <!-- ## sigla nombre                                                -->
